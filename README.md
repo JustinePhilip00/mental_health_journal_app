@@ -17,7 +17,7 @@ A journal designed to give insights into your mood - NLP
 Python — core programming language. <br>
 Streamlit — for building an interactive, user-friendly web app. <br>
 Pandas — for handling and processing mood journal data. <br>
-Matplotlib / Altair (via Streamlit) — for plotting mood trends. <br>
+Matplotlib (via Streamlit) — for plotting mood trends. <br>
 Virtual Environment (venv) — to manage dependencies. <br>
 
 💡 <b> Description </b>
