@@ -2,10 +2,10 @@
 A journal designed to give insights into your mood - NLP
 
 <div>
-    <a href="https://www.loom.com/share/e5800b422eda452091861f8b7526d99b" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.loom.com/share/e5800b422eda452091861f8b7526d99b">
       <p>Mental Health Journal App Demo 📈 - Watch Video</p>
     </a>
-    <a href="https://www.loom.com/share/e5800b422eda452091861f8b7526d99b" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.loom.com/share/e5800b422eda452091861f8b7526d99b">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/e5800b422eda452091861f8b7526d99b-b6d75b3fe72d704d-full-play.gif">
     </a>
   </div>
