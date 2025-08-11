@@ -4,6 +4,14 @@ A journal designed to give insights into your mood - NLP
 
 <div style="position: relative; padding-bottom: 51.5625%; height: 0;"><iframe src="https://www.loom.com/embed/e5800b422eda452091861f8b7526d99b?sid=71c38273-ad96-4526-8c25-fb919e163702" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
+<div>
+    <a href="https://www.loom.com/share/e5800b422eda452091861f8b7526d99b">
+      <p>Mental Health Journal App Demo 📈 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/e5800b422eda452091861f8b7526d99b">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/e5800b422eda452091861f8b7526d99b-b6d75b3fe72d704d-full-play.gif">
+    </a>
+  </div>
 <br> 
 
 🛠 <b> Technologies Used </b>
